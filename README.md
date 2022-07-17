@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Hello, My name is Dhannveen Uppal, I am programmer and I know various programming languages such as Python, Javascript, Swift, etc.
+Hello, My name is Dhannveen Uppal, I am a programmer and I know various programming languages such as Python, Javascript, Swift, Solidity, etc.
 
 ## 🛠 Skills
 - HTML
@@ -18,6 +18,8 @@ Hello, My name is Dhannveen Uppal, I am programmer and I know various programmin
     - React
     - Node.JS/Express
 - Swift
+- Solidity
+    - Smart Contract Programming
 - Database Technologies
     - Firebase - Firestore, Storage, Authentication
 - Cloud Technologies
@@ -31,4 +33,4 @@ Hello, My name is Dhannveen Uppal, I am programmer and I know various programmin
 
 ## Contact Me
 
-You can contact me on my email dhannveen@gmail.com
+You can contact me on my email dhannveen@gmail.com or through my personal website https://www.dhannveenuppal.com/contact
