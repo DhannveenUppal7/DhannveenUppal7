@@ -40,4 +40,4 @@ Hello, My name is Dhannveen Uppal, I am a programmer and I know various programm
 
 ## Contact Me
 
-You can contact me through my personal website https://www.dhannveenuppal.com/contact
+You can contact me through my personal website https://www.dhannveenuppal.com/contact or connect with me on LinkedIn
