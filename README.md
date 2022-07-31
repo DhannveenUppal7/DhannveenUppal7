@@ -15,7 +15,8 @@ Hello, My name is Dhannveen Uppal, I am a programmer and I know various programm
     - Django
 - Javascript
     - React Native
-    - React
+    - React.js
+    - NextJS
     - Node.JS/Express
 - Swift
 - Solidity
