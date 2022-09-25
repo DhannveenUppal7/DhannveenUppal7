@@ -28,6 +28,10 @@ Hello, My name is Dhannveen Uppal, I am a programmer and I know various programm
 ## Achievements
 
 - I have won the first prize in a state level competition for app development in which 17 schools participated.
+
+- I have been recognized as one of the youngest achievers in technology field by iNeuron(Banglore based tech compnay in India)
+https://youtu.be/EHzN_c86CDg
+
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2dat8AYqCQu3quJXoAeGeQ)
 
