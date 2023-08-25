@@ -27,7 +27,7 @@ Hello, My name is Dhannveen Uppal, I am a programmer and I know various programm
     - AWS  EC2 Instances
 ## Achievements
 
-- I have won the first prize in a state level competition for app development in which 17 schools participated.
+- Won Multiple competitions in the fields of web & app development.
 
 - I have been recognized as one of the youngest achievers in technology field by iNeuron(Bangalore based tech compnay in India)
 https://youtu.be/EHzN_c86CDg
